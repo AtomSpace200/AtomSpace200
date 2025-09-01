@@ -1,6 +1,11 @@
-# Hi there 👀
-I'm a front-end web developer, and I'm passionate about creating modern, engaging, and user-friendly web apps. I focus on combining great design with smooth functionality to deliver experiences that leave a strong impression.
-## Working on... 🚀
-I'm currently working on building my personal website and blog.
-## Inquiries ✉️
-You can find me @AtomSpace100 on X.
+# Marhaba 🎉
+I'm a front-end web developer passionate about creating **modern, engaging, and user-friendly websites**.  
+I focus on combining great design with smooth functionality to deliver digital experiences that leave a strong impression.
+## About Me
+- 💡 I'm interests in Front-end engineering, UI and UX accessibility, animations, and web performance.
+- 🌍 Always learning and exploring better ways to craft digital experiences.
+## Working On
+- Building my personal website with a blog section  
+- Experimenting with UI animations & micro-interactions  
+## Inquiries
+You can reach me on **X (Formerly Twitter)** - [@AtomSpace100](https://x.com/AtomSpace100).
